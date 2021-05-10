@@ -7,13 +7,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter-7-Experiment-4", "C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.1 简单四则运算", "7.4.1 简单四则运算\7.4.1 简单四则运算.vcxproj", "{F8AF29DB-1201-46FC-9C2D-57F0483CA9EB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.2 大数加", "大数加\大数加.vcxproj", "{98A40233-1DF0-4453-9901-574305521A0C}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.3 大数和", "7.4.3 大数和\7.4.3 大数和.vcxproj", "{31671B94-E4F2-4ADF-B9ED-04AFDFD5B3A3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.4 彼此两点最近", "7.4.4 彼此两点最近\7.4.4 彼此两点最近.vcxproj", "{F6B9BE30-479B-4CE5-A0C4-BCAACCF83609}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.5 离直线最近的点", "7.4.5 离直线最近的点\7.4.5 离直线最近的点.vcxproj", "{B5197262-B3B1-4B6A-A754-87BF9D8866EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.4.2 大数加", "7.4.2 大数加\大数加.vcxproj", "{98A40233-1DF0-4453-9901-574305521A0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,14 +39,6 @@ Global
 		{F8AF29DB-1201-46FC-9C2D-57F0483CA9EB}.Release|x64.Build.0 = Release|x64
 		{F8AF29DB-1201-46FC-9C2D-57F0483CA9EB}.Release|x86.ActiveCfg = Release|Win32
 		{F8AF29DB-1201-46FC-9C2D-57F0483CA9EB}.Release|x86.Build.0 = Release|Win32
-		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x64.ActiveCfg = Debug|x64
-		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x64.Build.0 = Debug|x64
-		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x86.ActiveCfg = Debug|Win32
-		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x86.Build.0 = Debug|Win32
-		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x64.ActiveCfg = Release|x64
-		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x64.Build.0 = Release|x64
-		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x86.ActiveCfg = Release|Win32
-		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x86.Build.0 = Release|Win32
 		{31671B94-E4F2-4ADF-B9ED-04AFDFD5B3A3}.Debug|x64.ActiveCfg = Debug|x64
 		{31671B94-E4F2-4ADF-B9ED-04AFDFD5B3A3}.Debug|x64.Build.0 = Debug|x64
 		{31671B94-E4F2-4ADF-B9ED-04AFDFD5B3A3}.Debug|x86.ActiveCfg = Debug|Win32
@@ -71,6 +63,14 @@ Global
 		{B5197262-B3B1-4B6A-A754-87BF9D8866EE}.Release|x64.Build.0 = Release|x64
 		{B5197262-B3B1-4B6A-A754-87BF9D8866EE}.Release|x86.ActiveCfg = Release|Win32
 		{B5197262-B3B1-4B6A-A754-87BF9D8866EE}.Release|x86.Build.0 = Release|Win32
+		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x64.ActiveCfg = Debug|x64
+		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x64.Build.0 = Debug|x64
+		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{98A40233-1DF0-4453-9901-574305521A0C}.Debug|x86.Build.0 = Debug|Win32
+		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x64.ActiveCfg = Release|x64
+		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x64.Build.0 = Release|x64
+		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x86.ActiveCfg = Release|Win32
+		{98A40233-1DF0-4453-9901-574305521A0C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
